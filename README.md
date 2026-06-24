@@ -1,0 +1,1 @@
+下载dist/osu_mania_set_exporter.exe可直接运行
