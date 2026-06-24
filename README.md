@@ -1,1 +1,2 @@
 下载dist/osu_mania_set_exporter.exe可直接运行
+筛选关键词规则与osu!stable基本一致
